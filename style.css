@@ -1,0 +1,28 @@
+/* Write your code below! */
+
+
+
+img {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body {
+    background-color: #f5e97d;
+    font-family: 'Sofia';
+    text-align: center;
+
+
+}
+.apple{
+  color:red;
+}
+.mango{
+  color:orange;
+}
+.lemon{
+  color:lime;
+}
